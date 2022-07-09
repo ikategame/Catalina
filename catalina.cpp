@@ -7,7 +7,7 @@
 
 void game()
 {
-	int HP = 100;
+	int HP = 200;
 	while (true)
 	{
 		HP++;
