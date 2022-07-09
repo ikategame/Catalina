@@ -16,7 +16,7 @@ void game()
 
 int main()
 {
-	std::cout << "IKategame" << std::endl;
+	Log("IKategame");
 	game();
 	int x = getNuM();
 	int y = getNuM();
