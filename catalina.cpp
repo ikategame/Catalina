@@ -8,7 +8,7 @@ void game()
 	int HP = 100;
 	while (true)
 	{
-		HP--;
+		HP++;
 		std::cout << HP << std::endl;
 		std::this_thread::sleep_for(std::chrono::seconds(1));
 	}
